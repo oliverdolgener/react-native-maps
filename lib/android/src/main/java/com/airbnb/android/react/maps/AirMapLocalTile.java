@@ -2,11 +2,11 @@ package com.airbnb.android.react.maps;
 
 import android.content.Context;
 
-import com.google.android.gms.maps.GoogleMap;
-import com.google.android.gms.maps.model.Tile;
-import com.google.android.gms.maps.model.TileOverlay;
-import com.google.android.gms.maps.model.TileOverlayOptions;
-import com.google.android.gms.maps.model.TileProvider;
+import com.google.android.libraries.maps.GoogleMap;
+import com.google.android.libraries.maps.model.Tile;
+import com.google.android.libraries.maps.model.TileOverlay;
+import com.google.android.libraries.maps.model.TileOverlayOptions;
+import com.google.android.libraries.maps.model.TileProvider;
 
 import java.io.ByteArrayOutputStream;
 import java.io.File;

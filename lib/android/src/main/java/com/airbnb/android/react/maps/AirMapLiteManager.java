@@ -1,7 +1,7 @@
 package com.airbnb.android.react.maps;
 
 import com.facebook.react.bridge.ReactApplicationContext;
-import com.google.android.gms.maps.GoogleMapOptions;
+import com.google.android.libraries.maps.GoogleMapOptions;
 
 public class AirMapLiteManager extends AirMapManager {
 

@@ -4,16 +4,16 @@ import android.content.Context;
 
 import com.facebook.react.bridge.ReadableArray;
 import com.facebook.react.bridge.ReadableMap;
-import com.google.android.gms.maps.GoogleMap;
-import com.google.android.gms.maps.model.Cap;
-import com.google.android.gms.maps.model.Dash;
-import com.google.android.gms.maps.model.Dot;
-import com.google.android.gms.maps.model.Gap;
-import com.google.android.gms.maps.model.LatLng;
-import com.google.android.gms.maps.model.PatternItem;
-import com.google.android.gms.maps.model.Polyline;
-import com.google.android.gms.maps.model.PolylineOptions;
-import com.google.android.gms.maps.model.RoundCap;
+import com.google.android.libraries.maps.GoogleMap;
+import com.google.android.libraries.maps.model.Cap;
+import com.google.android.libraries.maps.model.Dash;
+import com.google.android.libraries.maps.model.Dot;
+import com.google.android.libraries.maps.model.Gap;
+import com.google.android.libraries.maps.model.LatLng;
+import com.google.android.libraries.maps.model.PatternItem;
+import com.google.android.libraries.maps.model.Polyline;
+import com.google.android.libraries.maps.model.PolylineOptions;
+import com.google.android.libraries.maps.model.RoundCap;
 
 import java.util.ArrayList;
 import java.util.List;
